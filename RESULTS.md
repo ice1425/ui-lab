@@ -22,7 +22,7 @@ Tool parts that I chose: Part 3 (Robot Framework) and Part 4 (Cypress)
 | 7    | The list showed the line Lab Pizza 20261116-2031 (tool=Pizza cutter, ingredients_number=6), the same tool as in step 4 | Pass |
 
 ## Part 3: Robot Framework
-- robot --version:
+- robot --version: Robot Framework 7.5.1 (Python 3.14.7 on win32)
 - Step 3.2, failure message for the wrong title:
 - Step 3.8, run 1, result, elapsed time and pizza name:
 - Step 3.8, run 2, result, elapsed time and pizza name:
